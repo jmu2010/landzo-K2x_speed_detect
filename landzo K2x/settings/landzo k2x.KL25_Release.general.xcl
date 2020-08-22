@@ -1,0 +1,13 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armjlink2.dll" 
+
+"G:\Develop Guide\Blazar β Board\蓝宙电子_XTB009_锋速系列-KL26系统板资料-【更新至2015.11.16】\1参考例程\蓝宙电子KL2x开发板标准例程\LANDZO KL2X 实验25  光电码盘测速实验\landzo K2x\KL25_Release\Exe\landzo k2x.out" 
+
+--plugin "D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\NXP\KLxx.dmac" 
+
+
+
+

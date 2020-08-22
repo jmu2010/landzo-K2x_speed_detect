@@ -1,0 +1,13 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armjlink2.dll" 
+
+"F:\SmartCar\Project\00_Software\04_PortableRemote\speed_detect\landzo K2x\KL25_Debug\Exe\landzo k2x.out" 
+
+--plugin "D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\NXP\KLxx.dmac" 
+
+
+
+
